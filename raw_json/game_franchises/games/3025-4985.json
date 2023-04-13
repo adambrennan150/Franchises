@@ -1,0 +1,1 @@
+{"error": "OK", "limit": 1, "offset": 0, "number_of_page_results": 1, "number_of_total_results": 1, "status_code": 1, "results": {"games": [{"api_detail_url": "https://www.giantbomb.com/api/game/3030-42112/", "id": 42112, "name": "European Mystery: Scent of Desire", "site_detail_url": "https://www.giantbomb.com/european-mystery-scent-of-desire/3030-42112/"}]}, "version": "1.0"}
