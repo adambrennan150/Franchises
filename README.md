@@ -7,14 +7,15 @@ by Joshua Harris and Adam Brennan
 
 The notebooks are organised in run order and can be roughly organised as follows:
 Data Collection:
-  
 -   100 - IMDB
 -   101 - Giantbomb
 -   102 - Wikipedia
+
 Data Cleaning:
 -   103 - Wikipedia Cleaning
 -   104 - Giantbomb Cleaning
--   105 - 
+-   105 - Final Dataset Creation and Initial Analysis
+
 Data Analysis:
 -   106 - Research Question 1
 -   107 - Research Question 2
