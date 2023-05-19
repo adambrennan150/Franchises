@@ -22,4 +22,6 @@ Data Analysis:
 -   107_RQ2.ipynb - Examines the effects of negative ratings and flops on a franchise. 
 -   108_CaseStudy.ipynb - Examines how the Marvel and DC franchises perform across movies and games. 
 
+*Note that raw data has not been included as it amounts to 4GB of data.(Even after zipping, the file was 1GB and crashed during upload)
+
 
