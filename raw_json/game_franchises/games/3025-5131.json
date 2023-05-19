@@ -1,1 +1,0 @@
-{"error": "OK", "limit": 1, "offset": 0, "number_of_page_results": 1, "number_of_total_results": 1, "status_code": 1, "results": {"games": [{"api_detail_url": "https://www.giantbomb.com/api/game/3030-69736/", "id": 69736, "name": "Doughlings: Arcade", "site_detail_url": "https://www.giantbomb.com/doughlings-arcade/3030-69736/"}]}, "version": "1.0"}

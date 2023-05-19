@@ -1,1 +1,0 @@
-{"error": "OK", "limit": 1, "offset": 0, "number_of_page_results": 1, "number_of_total_results": 1, "status_code": 1, "results": {"games": [{"api_detail_url": "https://www.giantbomb.com/api/game/3030-74782/", "id": 74782, "name": "Mr Anchry's Divine Intervention", "site_detail_url": "https://www.giantbomb.com/mr-anchrys-divine-intervention/3030-74782/"}]}, "version": "1.0"}

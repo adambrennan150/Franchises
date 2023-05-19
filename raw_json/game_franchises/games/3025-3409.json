@@ -1,1 +1,0 @@
-{"error": "OK", "limit": 1, "offset": 0, "number_of_page_results": 1, "number_of_total_results": 1, "status_code": 1, "results": {"games": [{"api_detail_url": "https://www.giantbomb.com/api/game/3030-51578/", "id": 51578, "name": "Kharkov: Disaster on the Donets", "site_detail_url": "https://www.giantbomb.com/kharkov-disaster-on-the-donets/3030-51578/"}]}, "version": "1.0"}
